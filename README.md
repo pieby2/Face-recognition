@@ -76,7 +76,7 @@ WIDER FACE is a face detection benchmark dataset with 32,203 images and 393,703 
 1. Visit the WIDER FACE website
 2. Download the following files:
    - WIDER Face Training Images
-   - WIDER Face Validation Images  
+   - WIDER Face Validation Images
    - WIDER Face Testing Images
    - Face annotations
 3. Extract the files to your working directory
