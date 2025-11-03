@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+Pillow
+numpy
+torch
+torchvision
+facenet-pytorch
+opencv-python
+scikit-image
+scipy
+SQLAlchemy
+sqlite3
