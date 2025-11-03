@@ -59,6 +59,10 @@ ehthumbs.db
 FRS_Microservice/face_gallery.db
 *.db
 
+# Large artifacts to ignore
+MLInternship2025.pdf
+FRS_Microservice.zip
+
 # Environment files
 .env
 .env.*
